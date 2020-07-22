@@ -4,6 +4,12 @@ Simple Alfred Workflow to add calendar appointments in [Fantastical](https://fle
 
 This workflow acts a proxy to Fantastical powerful Natural Language Processing (NLP) Capabilities. 
 
+## Usage
+
+> Trigger work `cal`
+
+`cal check the cool alfred workflow today at 13:00`
+
 Here’s the general format we recommend you use when adding things using natural language into Fantastical”
 
 `[event name] at [location] [date/time] [alert] [URL] [calendar name]`
