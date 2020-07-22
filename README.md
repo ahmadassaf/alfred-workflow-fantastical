@@ -8,11 +8,9 @@ This workflow acts a proxy to Fantastical powerful Natural Language Processing (
 
 > Trigger work `cal`
 
-<img width="683" alt="Screenshot 2020-07-22 at 14 42 19" src="https://user-images.githubusercontent.com/550726/88183717-b7f16f00-cc29-11ea-9c1f-f7190e23c426.png">
-
 `cal Call with Adam Smith tomorrow at 12:00`
 
-<img width="652" alt="Screenshot 2020-07-22 at 14 42 44" src="https://user-images.githubusercontent.com/550726/88183727-b9bb3280-cc29-11ea-928a-e77a818cc48d.png">
+![alfred-fantastical-workflow](https://user-images.githubusercontent.com/550726/88184159-449c2d00-cc2a-11ea-979b-cdbdc0853761.gif)
 
 Here’s the general format we recommend you use when adding things using natural language into Fantastical”
 
