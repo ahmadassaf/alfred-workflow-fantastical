@@ -10,6 +10,8 @@ This workflow acts a proxy to Fantastical powerful Natural Language Processing (
 
 `cal check the cool alfred workflow today at 13:00`
 
+<img width="652" alt="Screenshot 2020-07-22 at 14 42 44" src="https://user-images.githubusercontent.com/550726/88183727-b9bb3280-cc29-11ea-928a-e77a818cc48d.png">
+
 Here’s the general format we recommend you use when adding things using natural language into Fantastical”
 
 `[event name] at [location] [date/time] [alert] [URL] [calendar name]`
